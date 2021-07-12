@@ -3,6 +3,10 @@
 	"version": "0.0.1",
 	"description": "An FCC Backend Challenge",
 	"main": "server.js",
+	"author": {
+		"name": "Brahim Bachir",
+		"email": "ibraalberola@gmail.com"
+	},
 	"scripts": {
 		"start": "node server.js"
 	},
